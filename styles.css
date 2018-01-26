@@ -2,10 +2,29 @@ body {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	background-color: #232323;
-	color: #fff;
+	background-color: #424242;
+	color: #535353;
 }
 
 h1 {
 	text-align: center;
+	color: yellow;
+}
+
+form {
+	color: #fff;
+}
+
+form input[type="submit"] {
+	background-color: #000;
+}
+
+ul {
+
+}
+
+li {
+	color: #000;
+	background-color: white;
+	
 }
